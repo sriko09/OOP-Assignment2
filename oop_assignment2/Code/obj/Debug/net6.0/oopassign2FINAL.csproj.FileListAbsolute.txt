@@ -1,0 +1,54 @@
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\input.txt
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.exe
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.deps.json
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.runtimeconfig.json
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.dll
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.pdb
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\TextFile.dll
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.csproj.AssemblyReference.cache
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.AssemblyInfoInputs.cache
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.AssemblyInfo.cs
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.csproj.CoreCompileInputs.cache
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.csproj.CopyComplete
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.dll
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\refint\oopassign2FINAL.dll
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.pdb
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.genruntimeconfig.cache
+C:\Sri\CSE\OOP\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\ref\oopassign2FINAL.dll
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\input.txt
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.exe
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.deps.json
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.runtimeconfig.json
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.dll
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.pdb
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\bin\Debug\net6.0\TextFile.dll
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.csproj.AssemblyReference.cache
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.AssemblyInfoInputs.cache
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.AssemblyInfo.cs
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.csproj.CoreCompileInputs.cache
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.csproj.CopyComplete
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.dll
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\refint\oopassign2FINAL.dll
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.pdb
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.genruntimeconfig.cache
+C:\Users\aravi\Downloads\oopassign2FINAL (1)\oopassign2FINAL\oopassign2FINAL\obj\Debug\net6.0\ref\oopassign2FINAL.dll
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\bin\Debug\net6.0\input.txt
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.exe
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.deps.json
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.runtimeconfig.json
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.dll
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\bin\Debug\net6.0\oopassign2FINAL.pdb
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\bin\Debug\net6.0\TextFile.dll
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.csproj.AssemblyReference.cache
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.AssemblyInfoInputs.cache
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.AssemblyInfo.cs
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.csproj.CoreCompileInputs.cache
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.csproj.CopyComplete
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.dll
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\refint\oopassign2FINAL.dll
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.pdb
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\oopassign2FINAL.genruntimeconfig.cache
+C:\Sri\CSE\Git\oop_assignment2\oopassign2FINAL\obj\Debug\net6.0\ref\oopassign2FINAL.dll
